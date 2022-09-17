@@ -1,8 +1,15 @@
-<h1 align="center" > React + viteJs + tailwindCss </h1>
+<br>
+<br>
+<h1 align="center" > React + viteJs + tailwindCss Boilerplate </h1>
+<br>
+<h3 align="center" > With the  speed of vite, and simplicity of tailwind the dev operation just bcomes 😎 Awesome 👌 </h3>
 
-<h3 align="center" >Boilerplate code for react + viteJs + TailwindCss. An easy to use way for repetitive code </h3>
+<br>
+<br>
 
-### **_how to use it_**
+### **how to use it**
+
+<br>
 
 ```
 
