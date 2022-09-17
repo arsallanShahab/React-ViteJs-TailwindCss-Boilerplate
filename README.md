@@ -7,7 +7,9 @@
 <br>
 <br>
 
-> ### **Usage |** run the following command on terminal
+> ### **Usage**
+
+### run the following command on terminal
 
 <br>
 
